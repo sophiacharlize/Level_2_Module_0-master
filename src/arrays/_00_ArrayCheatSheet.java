@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class _00_ArrayCheatSheet {
 	public static void main(String[] args) {
-		/*//1. make an array of 5 Strings
+		//1. make an array of 5 Strings
 		String [] i = new String[5];
 		//2. print the third element in the array
 		System.out.println(i[2]);
@@ -16,7 +16,7 @@ public class _00_ArrayCheatSheet {
 		//   BE SURE TO USE THE ARRAY'S length VARIABLE
 		for (int j = 0; j < i.length; j++) {
 			System.out.println(i[j]);
-		}*/
+		}
 		
 		//6. make an array of 50 integers
 		int [] x = new int[50];
